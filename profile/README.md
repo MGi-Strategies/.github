@@ -5,10 +5,10 @@ Our mission is to revolutionize the finance industry by leveraging the latest so
 
 ## what we offer
 
-### Portframe
+### Portframe - http://app.portframe.io
 
 The easiest way to create, test and share your range of portfolios with advanced dataframes and unique signals. 
 
-### MGi Marketplace
+### MGi Marketplace - https://market.mgi-strateiges.com
 
 Access unique company fundamental, social and alternative datasets via a robust REST or GraphQL API. Leverage webhooks to drive your event based operations.
