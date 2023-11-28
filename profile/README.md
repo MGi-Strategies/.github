@@ -5,7 +5,7 @@ Our mission is to revolutionize the finance industry by leveraging the latest so
 
 ## what we offer
 
-### Portframe - http://app.portframe.io
+### Portframe - http://app.portframe.com
 
 The easiest way to create, test and share your range of portfolios with advanced dataframes and unique signals. 
 
